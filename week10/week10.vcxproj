@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="copy_file.cpp" />
+    <ClCompile Include="letter_grade.cpp" />
+    <ClCompile Include="new_delete.cpp" />
+    <ClCompile Include="read_file.cpp" />
     <ClCompile Include="simple_ptr.cpp" />
+    <ClCompile Include="write_args.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
